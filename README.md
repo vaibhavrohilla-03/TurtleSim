@@ -1,4 +1,4 @@
-#TurtleSim (Console-Based)
+# TurtleSim
 
 This is a **console-based turtle simulation project** developed in C++. The current version allows basic turtle movement and interaction logic via the command line.
 
